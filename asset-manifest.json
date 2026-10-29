@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phone-shop-pos/static/css/main.e6c13ad2.css",
+    "main.js": "/phone-shop-pos/static/js/main.5740733f.js",
+    "static/js/453.c4453757.chunk.js": "/phone-shop-pos/static/js/453.c4453757.chunk.js",
+    "index.html": "/phone-shop-pos/index.html",
+    "main.e6c13ad2.css.map": "/phone-shop-pos/static/css/main.e6c13ad2.css.map",
+    "main.5740733f.js.map": "/phone-shop-pos/static/js/main.5740733f.js.map",
+    "453.c4453757.chunk.js.map": "/phone-shop-pos/static/js/453.c4453757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5740733f.js"
+  ]
+}
